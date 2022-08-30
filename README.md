@@ -10,4 +10,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Snake Light](dist/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://raw.githubusercontent.com/lvcc2018/lvcc2018/main/dist/github-contribution-grid-snake.svg" ></div>
