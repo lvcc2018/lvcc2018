@@ -8,7 +8,7 @@
 
 ## 📖 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcc2018&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvcc2018&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcc2018&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvcc2018&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lvcc2018&fire=002FA7&ring=4776EC&sideNums=002FA7&currStreakNum=002FA7&currStreakLabel=002FA7)](https://git.io/streak-stats)
 
