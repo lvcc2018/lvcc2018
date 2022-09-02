@@ -16,4 +16,4 @@
 
 ## 🛝 Activities
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lvcc2018&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
